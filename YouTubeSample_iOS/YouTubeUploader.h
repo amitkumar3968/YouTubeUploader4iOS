@@ -22,14 +22,12 @@
 // This "GoogleCredentials.h" file contains
 
 
-static NSString *const kSampleClientIDKey = @"339854867663.apps.googleusercontent.com";
-static NSString *const kSampleClientSecretKey = @"zw7wDmpEGPul2eGfvhHaWpKp";
-#define YouTubeDevKey @"AI39si41tw7lLVafN5dC84Vr5KRrw8ZdnuTPRIPQhDNeg16-6fNDhZIPlYLjOg8MhA6H3SWoi3DIp8OalXrvmyfPBnyJM_80oA"
+ 
 
 
- #define DEV_KEY          @"AI39si41tw7lLVafN5dC84Vr5KRrw8ZdnuTPRIPQhDNeg16-6fNDhZIPlYLjOg8MhA6H3SWoi3DIp8OalXrvmyfPBnyJM_80oA"
- #define CLIENT_ID        @"339854867663.apps.googleusercontent.com"
- #define CLIENT_SECRET    @"zw7wDmpEGPul2eGfvhHaWpKp"
+ #define DEV_KEY          @"Yourdev key"
+ #define CLIENT_ID        @"Your client ID"
+ #define CLIENT_SECRET    @"Your client secreto"
 // The Google API console is also where you can set your Product Name and Logo (Image) that will be used in the Modal OAuth Window.
 
 // Localizable Strings Variables
